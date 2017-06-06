@@ -1,0 +1,15 @@
+<resources>
+
+
+    <!-- //dialog-->
+    <style name="MyDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- 设置全屏 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 设置半透明 -->
+    </style>
+
+</resources>
